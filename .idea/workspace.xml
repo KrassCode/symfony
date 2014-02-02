@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46ea7015-6967-4155-8b2c-32e67653c9f9" name="Default" comment="install">
+    <list default="true" id="46ea7015-6967-4155-8b2c-32e67653c9f9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="symfony.iws" />
@@ -143,7 +143,11 @@
       <created>1391348438509</created>
       <updated>1391348438509</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="install">
+      <created>1391349419088</created>
+      <updated>1391349419088</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
